@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://icfc.github.io/"
+baseURL = "https://icfc.github.io/"
 title = "ICFC"
 theme = "bigspring"
 defaultContentLanguage = "zh-cn"

@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://icfc.github.io/de/english/</loc>
+    <loc>https://icfc.github.io/de/english/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/post-1/</loc>
+    <loc>https://icfc.github.io/de/english/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/post-4/</loc>
+    <loc>https://icfc.github.io/de/english/blog/post-4/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/post-5/</loc>
+    <loc>https://icfc.github.io/de/english/blog/post-5/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/post-6/</loc>
+    <loc>https://icfc.github.io/de/english/blog/post-6/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/</loc>
+    <loc>https://icfc.github.io/de/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://icfc.github.io/"
+                href="https://icfc.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://icfc.github.io/en/"
+                href="https://icfc.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://icfc.github.io/de/"
+                href="https://icfc.github.io/de/"
                 />
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/</loc>
+    <loc>https://icfc.github.io/de/english/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/post-2/</loc>
+    <loc>https://icfc.github.io/de/english/blog/post-2/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/english/blog/post-3/</loc>
+    <loc>https://icfc.github.io/de/english/blog/post-3/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
   </url><url>
-    <loc>http://icfc.github.io/de/zh-cn/</loc>
+    <loc>https://icfc.github.io/de/zh-cn/</loc>
   </url><url>
-    <loc>http://icfc.github.io/de/categories/</loc>
+    <loc>https://icfc.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://icfc.github.io/categories/"
+                href="https://icfc.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://icfc.github.io/en/categories/"
+                href="https://icfc.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://icfc.github.io/de/categories/"
+                href="https://icfc.github.io/de/categories/"
                 />
   </url><url>
-    <loc>http://icfc.github.io/de/english/contact/</loc>
+    <loc>https://icfc.github.io/de/english/contact/</loc>
   </url><url>
-    <loc>http://icfc.github.io/de/english/faq/</loc>
+    <loc>https://icfc.github.io/de/english/faq/</loc>
   </url><url>
-    <loc>http://icfc.github.io/de/english/pricing/</loc>
+    <loc>https://icfc.github.io/de/english/pricing/</loc>
   </url><url>
-    <loc>http://icfc.github.io/de/english/privacy-policy/</loc>
+    <loc>https://icfc.github.io/de/english/privacy-policy/</loc>
   </url><url>
-    <loc>http://icfc.github.io/de/tags/</loc>
+    <loc>https://icfc.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://icfc.github.io/tags/"
+                href="https://icfc.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://icfc.github.io/en/tags/"
+                href="https://icfc.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://icfc.github.io/de/tags/"
+                href="https://icfc.github.io/de/tags/"
                 />
   </url><url>
-    <loc>http://icfc.github.io/de/english/terms-conditions/</loc>
+    <loc>https://icfc.github.io/de/english/terms-conditions/</loc>
   </url>
 </urlset>
