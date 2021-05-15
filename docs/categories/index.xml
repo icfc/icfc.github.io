@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ICFC</title>
+    <link>http://icfc.github.io/categories/</link>
+    <description>Recent content in Categories on ICFC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>@2021 icfc [苏ICP备19005908号-1](https://beian.miit.gov.cn)</copyright><atom:link href="http://icfc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
